@@ -15,7 +15,7 @@
 \contentsline {paragraph}{}{4}
 \contentsline {paragraph}{}{4}
 \contentsline {subsection}{\numberline {3.1}Cohn-Kanade Database (CK)}{4}
-\contentsline {paragraph}{•}{4}
+\contentsline {paragraph}{}{4}
 \contentsline {subsection}{\numberline {3.2}Extended Cohn-Kanade Database (CK+)}{4}
 \contentsline {paragraph}{}{4}
 \contentsline {subsection}{\numberline {3.3}OpenCV (Open Source Computer Vision Library)}{5}
@@ -50,7 +50,6 @@
 \contentsline {section}{\numberline {5}RESULTS}{12}
 \contentsline {subsection}{\numberline {5.1}In static Images}{12}
 \contentsline {paragraph}{}{12}
-\contentsline {paragraph}{}{14}
 \contentsline {paragraph}{}{14}
 \contentsline {subsection}{\numberline {5.2}REAL-TIMEs}{14}
 \contentsline {paragraph}{}{14}
