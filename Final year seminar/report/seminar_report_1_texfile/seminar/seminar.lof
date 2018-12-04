@@ -1,0 +1,18 @@
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The working principle of SVM.\relax }}{10}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces the trade-off margin choice\relax }}{11}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Choice of Kernel function\relax }}{11}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Happy (FACS-0)\relax }}{12}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Sadness (FACS-1)\relax }}{12}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Fear (FACS-2)\relax }}{12}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Angry (FACS-3)\relax }}{13}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Surprise (FACS-4)\relax }}{13}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Disgust (FACS-5)\relax }}{13}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Contempt (FACS-6)\relax }}{13}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Neutral (FACS-7)\relax }}{14}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces The face detection with the facial landmarks detected with red dots and centre of gravity.\relax }}{15}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces The vectors from COG to every dot\relax }}{15}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces The face detection with the facial landmarks detected with red dots\relax }}{16}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces The facial landmarks with the centre of gravity (COG on Nose Tip)\relax }}{17}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces The vectors from COG to every dot\relax }}{17}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces (Table 1 Accuracy for different emotions)\relax }}{18}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces (Table 2 Accuracy for different classifiers and features.)\relax }}{18}
