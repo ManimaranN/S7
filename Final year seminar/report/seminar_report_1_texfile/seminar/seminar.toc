@@ -51,7 +51,7 @@
 \contentsline {subsection}{\numberline {5.1}In static Images}{12}
 \contentsline {paragraph}{}{12}
 \contentsline {paragraph}{}{14}
-\contentsline {subsection}{\numberline {5.2}REAL-TIMEs}{14}
+\contentsline {subsection}{\numberline {5.2}In Real Time}{14}
 \contentsline {paragraph}{}{14}
 \contentsline {section}{\numberline {6}DISCUSSION}{16}
 \contentsline {paragraph}{}{16}

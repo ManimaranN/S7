@@ -9,6 +9,8 @@
 \usepackage{setspace}
 \usepackage{chngcntr}
 \usepackage{fancyhdr}
+\usepackage{etoolbox}
+\patchcmd{\thebibliography}{\section*{\refname}}{}{}{}
 \pagestyle{fancy}
 \fancyhf{}
 \rfoot{\thepage}
@@ -754,7 +756,7 @@ detection of the emotion in static images. We can try
 with different datasets and evaluate the accuracy
 accordingly.
 
-\subsection{REAL-TIMEs}
+\subsection{In Real Time}
 \paragraph{}
 In Real-time the webcam recorded the video and
 detected the faces in the yellow box and extracted the
@@ -922,25 +924,20 @@ universal emotions.
 
 
 \newpage
-\cleardoublepage
+%\cleardoublepage
 \section{REFERENCES}
 \begin{thebibliography}{9}
 
 
-\bibitem{d} Patrick Lucey, Jeffrey F. Cohn, Takeo Kanade, Jason
-Saragih, Zara Ambadar, \emph{“Recognizing Facial
-Expression: Machine Learning and Application to
-Spontaneous Behavior”. }Computer Vision and Pattern
-Recognition 2005.
+\bibitem{d} Patrick Lucey, Jeffrey F. Cohn, Takeo Kanade, Jason Saragih, Zara Ambadar, \emph{“Recognizing Facial Expression: Machine Learning and Application to Spontaneous Behavior”. }Computer Vision and Pattern Recognition 2005.
 
-\bibitem{d} I. Cohen, N. Sebe, F. Cozman, M. Cirelo, and T.
-Huang, \emph{“Learning Bayesian network classifiers for facial
-expression recognition using both labeled and unlabeled
-data” }Computer Vision and Pattern Recognition., 2003.
+\bibitem{d} I. Cohen, N. Sebe, F. Cozman, M. Cirelo, and T. Huang,
+\emph{“Learning Bayesian network classifiers for facial expression recognition using both labeled and unlabeled data” }
+Computer Vision and Pattern Recognition., 2003.
 
-\bibitem{d}A. Kapoor, Y. Qi, and R.W.Picard. \emph{"Fully automatic
-upper facial action recognition."} IEEE International
-Workshop on Analysis and Modeling of Faces and
+\bibitem{d}A. Kapoor, Y. Qi, and R.W.Picard.
+\emph{"Fully automatic upper facial action recognition."} 
+IEEE International Workshop on Analysis and Modeling of Faces and
 Gestures., 2003.
 
 \bibitem{d} P. Ekman and W. Friesen,\emph{ Facial Action Coding
@@ -1027,11 +1024,6 @@ of facial expression recognition under partial facial
 image occlusion"}Image and Vision Computing,
 26(7):1052– 106.
 
-
-
-
-
 \end{thebibliography}
-
 
 \end{document}

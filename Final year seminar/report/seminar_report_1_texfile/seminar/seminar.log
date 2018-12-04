@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.11.26)  4 DEC 2018 21:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.11.26)  4 DEC 2018 23:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -217,6 +217,9 @@ Package: chngcntr 2009/09/02 v1.0a change counter resetting
 \f@ncyO@erf=\skip52
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
+) (./etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count105
 ) (./seminar.aux
 
 LaTeX Warning: Label `d' multiply defined.
@@ -275,19 +278,19 @@ LaTeX Warning: Label `d' multiply defined.
 )
 \openout1 = `seminar.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 20.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -297,16 +300,16 @@ Package caption Info: End \AtBeginDocument code.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
+\scratchcounter=\count106
 \scratchdimen=\dimen129
 \scratchbox=\box30
-\nofMPsegments=\count106
-\nofMParguments=\count107
+\nofMPsegments=\count107
+\nofMParguments=\count108
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count108
+\MPscratchCnt=\count109
 \MPscratchDim=\dimen130
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
 \everyMPtoPDFconversion=\toks24
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -387,25 +390,25 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 26.
 <ceclogo.png, id=1, 125.71968pt x 121.20282pt>
 File: ceclogo.png Graphic file (type png)
  <use ceclogo.png>
-Package pdftex.def Info: ceclogo.png used on input line 59.
+Package pdftex.def Info: ceclogo.png used on input line 61.
 (pdftex.def)             Requested size: 125.71936pt x 121.20251pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./ceclogo.png>]
 File: ceclogo.png Graphic file (type png)
  <use ceclogo.png>
-Package pdftex.def Info: ceclogo.png used on input line 88.
+Package pdftex.def Info: ceclogo.png used on input line 90.
 (pdftex.def)             Requested size: 125.71936pt x 121.20251pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 93.
 
 [2] [1] [2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 200.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 202.
  (./seminar.toc
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 17
 .
@@ -467,7 +470,7 @@ Missing character: There is no € in font ptmb7t!
 Missing character: There is no ¢ in font ptmb7t!
  [3]
 ! Misplaced alignment tab character &.
-l.368 ...sequence in fully FACS (Ekman, Friesen, &
+l.370 ...sequence in fully FACS (Ekman, Friesen, &
                                                    Hager, 2002; Ekman & Frie...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -477,7 +480,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.368 ...S (Ekman, Friesen, & Hager, 2002; Ekman &
+l.370 ...S (Ekman, Friesen, & Hager, 2002; Ekman &
                                                    Friesen, 1979) coded and ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -490,13 +493,13 @@ might try typing `S' now just to see what is salvageable.
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no ¶ in font ptmr7t!
  [5]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 396.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 398.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 396.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 398.
  [6]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
@@ -587,47 +590,47 @@ Missing character: There is no ’ in font ptmr7t!
  [9] <SVM-Planes.jpg, id=56, 331.2375pt x 283.81032pt>
 File: SVM-Planes.jpg Graphic file (type jpg)
  <use SVM-Planes.jpg>
-Package pdftex.def Info: SVM-Planes.jpg used on input line 594.
+Package pdftex.def Info: SVM-Planes.jpg used on input line 596.
 (pdftex.def)             Requested size: 284.54027pt x 227.62885pt.
 
 [10 <./SVM-Planes.jpg>] <image12.jpeg, id=60, 333.245pt x 152.57pt>
 File: image12.jpeg Graphic file (type jpg)
 
 <use image12.jpeg>
-Package pdftex.def Info: image12.jpeg used on input line 621.
+Package pdftex.def Info: image12.jpeg used on input line 623.
 (pdftex.def)             Requested size: 284.54605pt x 170.72357pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 615--625
+Underfull \hbox (badness 10000) in paragraph at lines 617--627
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 615--625
+Underfull \hbox (badness 10000) in paragraph at lines 617--627
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 615--625
+Underfull \hbox (badness 10000) in paragraph at lines 617--627
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 615--625
+Underfull \hbox (badness 10000) in paragraph at lines 617--627
 
  []
 
 <download.jpg, id=61, 333.245pt x 152.57pt>
 File: download.jpg Graphic file (type jpg)
  <use download.jpg>
-Package pdftex.def Info: download.jpg used on input line 632.
+Package pdftex.def Info: download.jpg used on input line 634.
 (pdftex.def)             Requested size: 284.54605pt x 170.72357pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 628--636
+Underfull \hbox (badness 10000) in paragraph at lines 630--638
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 628--636
+Underfull \hbox (badness 10000) in paragraph at lines 630--638
 
  []
 
@@ -635,63 +638,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 628--636
 <happy.jpg, id=66, 710.655pt x 263.98625pt>
 File: happy.jpg Graphic file (type jpg)
  <use happy.jpg>
-Package pdftex.def Info: happy.jpg used on input line 662.
+Package pdftex.def Info: happy.jpg used on input line 664.
 (pdftex.def)             Requested size: 284.52805pt x 113.80995pt.
 
 <sad.jpg, id=68, 702.625pt x 278.03876pt>
 File: sad.jpg Graphic file (type jpg)
  <use sad.jpg>
-Package pdftex.def Info: sad.jpg used on input line 673.
+Package pdftex.def Info: sad.jpg used on input line 675.
 (pdftex.def)             Requested size: 284.5294pt x 113.80995pt.
 
 <fear.jpg, id=69, 723.70375pt x 259.97125pt>
 File: fear.jpg Graphic file (type jpg)
  <use fear.jpg>
-Package pdftex.def Info: fear.jpg used on input line 683.
+Package pdftex.def Info: fear.jpg used on input line 685.
 (pdftex.def)             Requested size: 284.52919pt x 113.80853pt.
 
 <angry.jpg, id=70, 702.625pt x 253.94875pt>
 File: angry.jpg Graphic file (type jpg)
  <use angry.jpg>
-Package pdftex.def Info: angry.jpg used on input line 692.
+Package pdftex.def Info: angry.jpg used on input line 694.
 (pdftex.def)             Requested size: 284.5294pt x 113.81088pt.
  [12 <./happy.jpg> <./sad.jpg> <./fear.jpg>] <surprise.jpg, id=77, 731.73375pt 
 x 261.97874pt>
 File: surprise.jpg Graphic file (type jpg)
 
 <use surprise.jpg>
-Package pdftex.def Info: surprise.jpg used on input line 703.
+Package pdftex.def Info: surprise.jpg used on input line 705.
 (pdftex.def)             Requested size: 284.52644pt x 113.80792pt.
  <disgust.jpg, id=78, 706.64pt x 230.8625pt>
 File: disgust.jpg Graphic file (type jpg)
 
 <use disgust.jpg>
-Package pdftex.def Info: disgust.jpg used on input line 711.
+Package pdftex.def Info: disgust.jpg used on input line 713.
 (pdftex.def)             Requested size: 284.52713pt x 113.81053pt.
  <contempt.jpg, id=79, 721.69624pt x 261.97874pt>
 File: contempt.jpg Graphic file (type jpg)
 
 <use contempt.jpg>
-Package pdftex.def Info: contempt.jpg used on input line 719.
+Package pdftex.def Info: contempt.jpg used on input line 721.
 (pdftex.def)             Requested size: 284.52179pt x 113.80792pt.
  <neutral.jpg, id=80, 718.685pt x 261.97874pt>
 File: neutral.jpg Graphic file (type jpg)
 
 <use neutral.jpg>
-Package pdftex.def Info: neutral.jpg used on input line 727.
+Package pdftex.def Info: neutral.jpg used on input line 729.
 (pdftex.def)             Requested size: 284.52995pt x 113.80792pt.
  [13 <./angry.jpg> <./surprise.jpg> <./disgust.jpg> <./contempt.jpg>] <realtime
 1.jpg, id=89, 710.655pt x 465.74pt>
 File: realtime1.jpg Graphic file (type jpg)
  <use realtime1.jpg>
-Package pdftex.def Info: realtime1.jpg used on input line 771.
+Package pdftex.def Info: realtime1.jpg used on input line 773.
 (pdftex.def)             Requested size: 284.52805pt x 142.26013pt.
 
 [14 <./neutral.jpg>] <realtime2.jpg, id=93, 478.78876pt x 558.085pt>
 File: realtime2.jpg Graphic file (type jpg)
 
 <use realtime2.jpg>
-Package pdftex.def Info: realtime2.jpg used on input line 780.
+Package pdftex.def Info: realtime2.jpg used on input line 782.
 (pdftex.def)             Requested size: 142.26425pt x 142.26295pt.
  [15 <./realtime1.jpg> <./realtime2.jpg>]
 Missing character: There is no â in font ptmr7t!
@@ -708,15 +711,15 @@ File: Facial-emotion-recognition-in-real-time-and-static-images-031.jpg Graphic
 
 <use Facial-emotion-recognition-in-real-time-and-static-images-031.jpg>
 Package pdftex.def Info: Facial-emotion-recognition-in-real-time-and-static-ima
-ges-031.jpg used on input line 823.
+ges-031.jpg used on input line 825.
 (pdftex.def)             Requested size: 284.53154pt x 170.7136pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 793--828
+Underfull \hbox (badness 10000) in paragraph at lines 795--830
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 793--828
+Underfull \hbox (badness 10000) in paragraph at lines 795--830
 
  []
 
@@ -728,15 +731,15 @@ File: Facial-emotion-recognition-in-real-time-and-static-images-032.jpg Graphic
 
 <use Facial-emotion-recognition-in-real-time-and-static-images-032.jpg>
 Package pdftex.def Info: Facial-emotion-recognition-in-real-time-and-static-ima
-ges-032.jpg used on input line 835.
+ges-032.jpg used on input line 837.
 (pdftex.def)             Requested size: 284.5232pt x 170.71992pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--840
+Underfull \hbox (badness 10000) in paragraph at lines 833--842
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 831--840
+Underfull \hbox (badness 10000) in paragraph at lines 833--842
 
  []
 
@@ -748,10 +751,10 @@ File: Facial-emotion-recognition-in-real-time-and-static-images-033.jpg Graphic
 
 <use Facial-emotion-recognition-in-real-time-and-static-images-033.jpg>
 Package pdftex.def Info: Facial-emotion-recognition-in-real-time-and-static-ima
-ges-033.jpg used on input line 845.
+ges-033.jpg used on input line 847.
 (pdftex.def)             Requested size: 284.52713pt x 170.7162pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 842--849
+Underfull \hbox (badness 10000) in paragraph at lines 844--851
 
  []
 
@@ -760,13 +763,13 @@ cial-emotion-recognition-in-real-time-and-static-images-033.jpg>]
 <new1.jpg, id=107, 1153.30875pt x 525.965pt>
 File: new1.jpg Graphic file (type jpg)
  <use new1.jpg>
-Package pdftex.def Info: new1.jpg used on input line 875.
+Package pdftex.def Info: new1.jpg used on input line 877.
 (pdftex.def)             Requested size: 341.4374pt x 184.94121pt.
 
 <new2.jpg, id=108, 766.865pt x 514.92375pt>
 File: new2.jpg Graphic file (type jpg)
  <use new2.jpg>
-Package pdftex.def Info: new2.jpg used on input line 885.
+Package pdftex.def Info: new2.jpg used on input line 887.
 (pdftex.def)             Requested size: 284.53131pt x 142.26053pt.
  [18 <./new1.jpg> <./new2.jpg>] [19]
 Missing character: There is no â in font ptmri7t!
@@ -829,9 +832,7 @@ Missing character: There is no  in font ptmri7t!
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
- [20
-
-]
+ [20]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
@@ -853,10 +854,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4097 strings out of 494456
- 61635 string characters out of 6171384
- 121507 words of memory out of 5000000
- 7423 multiletter control sequences out of 15000+600000
+ 4406 strings out of 494456
+ 65113 string characters out of 6171384
+ 128334 words of memory out of 5000000
+ 7729 multiletter control sequences out of 15000+600000
  24884 words of font info for 53 fonts, out of 8000000 for 9000
  286 hyphenation exceptions out of 8191
  38i,10n,43p,1642b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -866,7 +867,7 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
 fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.
 pfb>
-Output written on seminar.pdf (27 pages, 1708561 bytes).
+Output written on seminar.pdf (27 pages, 1708529 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  78 compressed objects within 1 object stream
